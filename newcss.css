@@ -48,3 +48,12 @@ body
     
 }
 
+#lien1{
+    position: absolute;
+    left:645px;
+}
+
+#lien2{
+    position: absolute;
+    left:880px;
+}
